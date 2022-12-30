@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/sandbox-styled-components/static/css/main.2dd34ed9.css",
+    "main.js": "/sandbox-styled-components/static/js/main.e1077f65.js",
+    "static/js/787.8790ea23.chunk.js": "/sandbox-styled-components/static/js/787.8790ea23.chunk.js",
+    "static/media/sectionbg.png": "/sandbox-styled-components/static/media/sectionbg.885e19fb217cdc648029.png",
+    "static/media/banner-right.png": "/sandbox-styled-components/static/media/banner-right.0b9328e5936739b91444.png",
+    "static/media/about27.jpg": "/sandbox-styled-components/static/media/about27.7a79b6197e704e5f3fe9.jpg",
+    "static/media/3d2.png": "/sandbox-styled-components/static/media/3d2.1e69af2cf34b08f25a42.png",
+    "static/media/t2.jpg": "/sandbox-styled-components/static/media/t2.517e9cf45cd4e5f3a8dd.jpg",
+    "static/media/i3.png": "/sandbox-styled-components/static/media/i3.c302b9705bbbb9e3cd09.png",
+    "static/media/t1.jpg": "/sandbox-styled-components/static/media/t1.e009c88f3728869b0c2e.jpg",
+    "static/media/t3.jpg": "/sandbox-styled-components/static/media/t3.19bb8da26d984cdc8e65.jpg",
+    "static/media/team-svgrepo-com.svg": "/sandbox-styled-components/static/media/team-svgrepo-com.9ca44134560bbb3d8494159a9e712ac2.svg",
+    "static/media/i8.png": "/sandbox-styled-components/static/media/i8.797c17eaeb7d0c6a14b9.png",
+    "static/media/t4.jpg": "/sandbox-styled-components/static/media/t4.fab29e1bccb5188ba13b.jpg",
+    "static/media/t5.jpg": "/sandbox-styled-components/static/media/t5.eaac2d0e18007e72f129.jpg",
+    "static/media/network-svgrepo-com.svg": "/sandbox-styled-components/static/media/network-svgrepo-com.eeab19a2f53effd0f5756a0ff85b9999.svg",
+    "static/media/database-svgrepo-com.svg": "/sandbox-styled-components/static/media/database-svgrepo-com.fb275d73c7010101744a10967f8ccfca.svg",
+    "static/media/laptop-svgrepo-com.svg": "/sandbox-styled-components/static/media/laptop-svgrepo-com.cb7c37c4fa62b81736e55b29ce8d69ef.svg",
+    "static/media/slick.svg": "/sandbox-styled-components/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sandbox-styled-components/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/setting-svgrepo-com.svg": "/sandbox-styled-components/static/media/setting-svgrepo-com.e3da0e330defd0b15f1bb4fec67db791.svg",
+    "static/media/slick.ttf": "/sandbox-styled-components/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/security-svgrepo-com.svg": "/sandbox-styled-components/static/media/security-svgrepo-com.6622b0bb1ef1a1e2e54638da66ddc84d.svg",
+    "static/media/progress.svg": "/sandbox-styled-components/static/media/progress.7f1198e719fc487fb9aa91741087a8f9.svg",
+    "static/media/slick.woff": "/sandbox-styled-components/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/cloud-svgrepo-com.svg": "/sandbox-styled-components/static/media/cloud-svgrepo-com.288f37263b6e144ae5006dc63995810c.svg",
+    "index.html": "/sandbox-styled-components/index.html",
+    "main.2dd34ed9.css.map": "/sandbox-styled-components/static/css/main.2dd34ed9.css.map",
+    "main.e1077f65.js.map": "/sandbox-styled-components/static/js/main.e1077f65.js.map",
+    "787.8790ea23.chunk.js.map": "/sandbox-styled-components/static/js/787.8790ea23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd34ed9.css",
+    "static/js/main.e1077f65.js"
+  ]
+}
