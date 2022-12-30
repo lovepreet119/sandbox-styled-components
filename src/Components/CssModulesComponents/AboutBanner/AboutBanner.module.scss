@@ -1,0 +1,19 @@
+@import '../../../Assets/Theme/var.scss';
+
+.AboutSec {
+    // background-color: $secBg;
+    background: $backgroundGradient;
+    padding: 90px 0;
+
+    @media (max-width: 991px) {
+        padding: 90px 0 110px;
+    }
+
+    &Img {
+        margin-bottom: -300px;
+
+        @media (max-width: 1199px) {
+            margin-bottom: -150px;
+        }
+    }
+}

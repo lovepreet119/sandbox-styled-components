@@ -1,0 +1,79 @@
+@import '../../../Assets/Theme/var.scss';
+
+.MegaTitle {
+    font-weight: 600;
+    font-size: calc(1.355rem + 1.26vw);
+    color: $titleColor;
+
+    @media (min-width: 1200px) {
+        font-size: 46px;
+    }
+}
+
+.TitleText {
+    font-size: 34px;
+    color: $titleColor;
+    font-weight: 600;
+
+    @media (max-width: 1199px) {
+        font-size: calc(1.315rem + .78vw);
+    }
+}
+
+.SubTitleText {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    color: $textColor;
+}
+
+.BlueTitle {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: $baseColor;
+    letter-spacing: 0.4px;
+    position: relative;
+    padding-left: 50px;
+    background: $gradient1;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    &::before {
+        content: "";
+        width: 40px;
+        height: 3px;
+        background: $gradient1;
+        position: absolute;
+        transform: translateY(-50%) translateX(100%);
+        top: 50%;
+        right: 100%;
+    }
+}
+
+.CommonBtn {
+    padding: 14px 30px;
+    border-radius: 30px;
+    background: $gradient1;
+    color: $white;
+    border: none;
+    outline: none;
+    display: inline-block;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+
+    span {
+        transition: 0.3s ease-in-out;
+        display: inline-block;
+    }
+
+
+    &:hover {
+        // transform: translateY(-10px);
+
+        span {
+            transform: translateX(8px);
+        }
+    }
+}
